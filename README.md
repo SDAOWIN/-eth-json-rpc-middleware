@@ -10,6 +10,7 @@ See tests for usage details.
 yarn test
 ```
 
+
 ## See Also
 
 - [`eth-json-rpc-filters`](https://github.com/MetaMask/eth-json-rpc-filters).
